@@ -1,0 +1,12 @@
+[project]
+name = "multi-server-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.0",
+    "mcp>=1.10.1",
+    "tavily-python>=0.7.9",
+    "uvicorn>=0.35.0",
+]

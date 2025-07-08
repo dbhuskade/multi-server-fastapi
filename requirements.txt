@@ -1,0 +1,4 @@
+mcp
+tavily-python
+fastapi
+uvicorn
