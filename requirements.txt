@@ -2,3 +2,4 @@ mcp
 tavily-python
 fastapi
 uvicorn
+pydantic
