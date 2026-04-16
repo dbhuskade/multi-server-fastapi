@@ -1,6 +1,6 @@
 from mcp.server.fastmcp import FastMCP
 
-mcp =  FastMCP("math",port = 8070)
+mcp =  FastMCP("math",host="0.0.0.0",port = 8070)
 
 @mcp.tool()
 def add(a:int,b:int)->int:
